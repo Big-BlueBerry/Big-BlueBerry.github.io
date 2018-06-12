@@ -1,5 +1,6 @@
 ---
 ---
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
